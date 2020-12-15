@@ -20,7 +20,7 @@
         },
         {
             "name": "loginapp",
-            "image": "softwarebhayya/loginapp",
+            "image": "rahuldocker/loginapp",
             "environment": [
                 {
                     "name": "MSHOST",
